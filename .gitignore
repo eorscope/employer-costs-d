@@ -1,0 +1,9 @@
+.dub/
+*.lib
+*.a
+*.exe
+*.obj
+*.o
+*-test-*
+docs.json
+*.pdb

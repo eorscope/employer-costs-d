@@ -1,0 +1,9 @@
+{
+	"name": "eorscope-employer-costs",
+	"description": "Read-only lookup of the EOR Scope CC BY 4.0 dataset: statutory employer costs in 76 countries and their sourced contribution lines.",
+	"homepage": "https://eorscope.com/eor-cost-calculator/",
+	"license": "MIT",
+	"authors": ["EOR Scope Research"],
+	"targetType": "library",
+	"stringImportPaths": ["data"]
+}
