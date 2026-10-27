@@ -52,6 +52,17 @@ contribution lines and their official sources.
 
 Cost comparison, not legal or tax advice.
 
+## Data version
+
+Export of 13 October 2026 (datapackage.json `created`). SHA-256 of the embedded files:
+
+```
+83e1cec0a902ff629be224e22e0c4c11b90adc2f77aaa1e2b2914a79e6075254  data/country_summary.csv
+5c55cd63e18a9b8e60813653b600cbe1f0e1bafb560482c949ea5c225900ec85  data/country_contributions.csv
+c204bf448d5aecc99968a5e37f71473233cc179b10238d18537e46eb573fd50a  data/country_assumptions.csv
+105ff773cdd84d09900a475230ad58a7207718ac9d95b7ec09176a4cb044de01  data/LICENSE
+```
+
 ## Updating the data
 
 `sync.sh <dir>` copies the three CSV files and the data licence of a dataset
